@@ -43,7 +43,7 @@ pip install datasets transformers matplotlib
   * 内存：≥ 16GB
 
 
-## 3. 目录结构（简要）
+## 3. 目录结构
 
 核心代码文件：
 
